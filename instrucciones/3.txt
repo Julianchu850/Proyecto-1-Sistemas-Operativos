@@ -1,0 +1,3 @@
+INC AX
+NOP
+SUB AX, 2
