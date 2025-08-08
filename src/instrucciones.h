@@ -4,6 +4,6 @@
 #include <string>
 #include "proceso.h"
 
-void ejecutarInstruccion(Proceso& p, const std::string& instruccion);
+int ejecutarInstruccion(Proceso& p, const std::string& instruccion);
 
 #endif
