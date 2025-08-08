@@ -6,7 +6,7 @@
 
 void ejecutarSimulacion(std::vector<Proceso>& procesos) {
     bool todosTerminados = false;
-    int pcAntes = -1;
+    
     while (!todosTerminados) {
         todosTerminados = true;
 
