@@ -3,6 +3,12 @@
 Simulador básico en C++ para planificar procesos con quantum y mostrar el resultado de los procesos por consola. Permite cargar instrucciones desde un archivo.
 
 ---
+## 🛠️ Requisitos
+
+- **Sistema operativo:** Linux (o Windows con WSL) / macOS.  
+- **Compilador:** g++ versión 7 o superior (tu proyecto usa C++17).  
+- **Herramientas:** Terminal o consola para compilar y ejecutar.
+
 
 ## ⚙️ Compilación
 
@@ -15,6 +21,7 @@ luego,
 
 ```bash
 ./procplanner
+
 
 
 
