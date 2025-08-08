@@ -6,7 +6,7 @@ Simulador básico en C++ para planificar procesos con quantum y mostrar el resul
 
 ## ⚙️ Compilación
 
-Para compilar con g++ (requiere C++17), solo escribimos este comando en el bash:
+Para compilar con g++ (requiere C++17), solo escribimos este comando en el bash, posicionandonos ya en la carpeta del proyecto:
 
 ```bash
 g++ src/*.cpp -o procplanner -std=c++17
@@ -15,5 +15,6 @@ luego,
 
 ```bash
 ./procplanner
+
 
 
